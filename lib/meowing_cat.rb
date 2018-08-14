@@ -1,4 +1,4 @@
-class  
+class
   attr_accessor :name
 
   def meow
